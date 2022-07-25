@@ -13,7 +13,7 @@
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/FocusTimer?color=1280bf">
   
-  <a href=""> ▶️ Visualizar Deploy </a>
+  <a href="https://laurirodrigues.github.io/FocusTimer/"> ▶️ Visualizar Deploy </a>
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
