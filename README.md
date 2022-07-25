@@ -7,11 +7,11 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/FocusTimer">
 
-  <img alt="GitHub repo size" src="">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/FocusTimer">
   
-  <img alt="GitHub last commit" src="">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/FocusTimer?color=1280bf">
   
   <a href=""> ▶️ Visualizar Deploy </a>
 </div>
