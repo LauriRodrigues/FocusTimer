@@ -3,7 +3,7 @@
 </div>
 	
 <h4 align="center"> 
-	🚀 Projeto 11 | Stage 05 - Explorer
+	🚀 Projeto 12 | Stage 05 - Explorer
 </h4>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
-<p> Projeto realizado durante o programa <strong>Explorer</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. É o décimo primeiro projeto do programa, localizado no nível 5, onde construímos um timer para conhecer conceitos de DOM, funções callbacks, recursividade, princípios de Clean Code, escopos, es6 Modules, padrão factory, injeção de dependências e áudios pelo js. <p>
+<p> Projeto realizado durante o programa <strong>Explorer</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. É o décimo segundo projeto do programa, localizado no nível 5, onde construímos um timer para conhecer conceitos de DOM, funções callbacks, recursividade, princípios de Clean Code, escopos, es6 Modules, padrão factory, injeção de dependências e áudios pelo js. <p>
   
 <h2 align=left> 🛠 Tecnologias utilizadas </h3>
 
